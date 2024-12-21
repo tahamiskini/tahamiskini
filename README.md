@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taha Meskini</h1>
-<h3 align="center">I am a third-year Tunisian software engineering student and a passionate FullStack developer from Tunisia.</h3>
+<h3 align="center">I am a software engineer and a passionate FullStack developer from Tunisia.</h3>
 
 - 🌱 I’m currently learning **Software engineering**
 
